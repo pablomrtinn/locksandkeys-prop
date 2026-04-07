@@ -15,6 +15,9 @@ El motor de resolución desarrollado en **Java** utiliza algoritmos de búsqueda
 * **Funciones Heurísticas:** Diseño de funciones personalizadas para estimar el coste restante, teniendo en cuenta no solo la distancia de Manhattan, sino también la necesidad de desviarse para obtener llaves.
 * **Gestión de Estados:** Control eficiente de estados que incluyen la posición del agente y el inventario de llaves recolectadas.
 
+* ### 3. Documentación
+También se incluye documentación relacionada con la práctica, así como las estadísticas y otro tipo de datos que se pedían en a práctica en si
+
 ## 🛠️ Tecnologías Utilizadas
 
 * **Java:** Lógica del motor de búsqueda y estructuras de datos.
